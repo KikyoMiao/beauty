@@ -1,6 +1,5 @@
 # 一键美肤功能--beauty #
 
-----------
 在allyoteam上看到一篇文章([http://www.alloyteam.com/2012/07/convert-picture-to-sketch-by-canvas/](http://www.alloyteam.com/2012/07/convert-picture-to-sketch-by-canvas/ "使用CANVAS把照片转换成素描画"))萌生了想写个美肤功能的念头
 在度娘搜了一个ps教程 戳这里--->[http://jingyan.baidu.com/article/acf728fd18e8eef8e510a3c8.html](http://jingyan.baidu.com/article/acf728fd18e8eef8e510a3c8.html "PS快速美白照片")
 
